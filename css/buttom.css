@@ -1,0 +1,9 @@
+.buttom {
+    background: #0040ff ;
+    border-radius: 15px;
+    padding: 10px 30px;
+    width: 40px;
+    display: inline;
+    margin-left: 5px;
+    color: white;
+}

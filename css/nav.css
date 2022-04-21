@@ -1,0 +1,9 @@
+.nav {
+    position: sticky;
+    top: 0;
+    margin-left: 5px;
+}
+
+.conteiner {
+    margin-left: 300px;
+}

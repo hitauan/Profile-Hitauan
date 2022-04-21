@@ -1,0 +1,9 @@
+.section {
+    height: 800px;
+    background: black;
+}
+
+.section-prime {
+    margin-left: 5px;
+    background: black;
+}

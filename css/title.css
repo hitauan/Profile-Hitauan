@@ -1,0 +1,16 @@
+.title {
+    margin-left: 5px;
+    color: #00BFFF;
+}
+
+.title-prime {
+    font-family:'Hind Siliguri' ;
+    display: inline;
+    color: #00BFFF;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+p{
+    color: white;
+}
